@@ -19,5 +19,5 @@ Hi, I am Nikhil Dubey
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 - My work experience  
-  - 🟢 Working as an Associate Developer at [Anand Rathi IT Pvt. Ltd.](https://www.techanandrathi.com/)  
+  - 🟢 Working as an Java Backend Developer at [Anand Rathi IT Pvt. Ltd.](https://www.techanandrathi.com/)  
   - 🔴 Worked as a Full Stack Developer Intern at [REGex Software Services](https://regexsoftware.com/)  
