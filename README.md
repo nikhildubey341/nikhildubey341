@@ -6,7 +6,7 @@ Hi, I am Nikhil Dubey
 - I work on scalable backend system design and building high-performance APIs.  
 - I usually work with Java-based backend technologies such as Spring Boot, Spring MVC, Microservices, and Cloud architectures.  
 - I enjoy backend architecture, API development, database engineering, and secure backend development.  
-- My Tech Stack: Java, Spring Boot, Spring MVC, Hibernate/JPA, Microservices, AWS, Spring Security, JavaScript, ReactJS, MySQL, PostgreSQL  
+- My Tech Stack: Java, Spring Boot, Spring MVC, Hibernate/JPA, Microservices, AWS, Spring Security, JavaScript, ReactJS, MySQL, PostgreSQL, Redis, Kafka, MultiThreading, 
 - Languages I know: Java, JavaScript, C++
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
